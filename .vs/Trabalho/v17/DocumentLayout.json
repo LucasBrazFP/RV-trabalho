@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Trabalho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\PerguntaSala3Trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PerguntaSala3Trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\scriptsala3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\scriptsala3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\NewMonoBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NewMonoBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\Sala2Trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sala2Trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\FakeVRPlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FakeVRPlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\MenuButtons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MenuButtons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\Sala2ExitTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sala2ExitTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\Teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\QuizManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\QuizManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\QuestManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\QuestManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\ManequimInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ManequimInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\Cubo2UI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Cubo2UI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\TrocarQuestSala2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TrocarQuestSala2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\PerguntaTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PerguntaTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\EPIInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EPIInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@4ccd9ecd2ee0\\Runtime\\Material\\Lit\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.high-definition@4ccd9ecd2ee0\\Runtime\\Material\\Lit\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\EPIDialogUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EPIDialogUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.ugui@3dd2fbd8c1f1\\Runtime\\TMP\\TextMeshProUGUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@3dd2fbd8c1f1\\Runtime\\TMP\\TextMeshProUGUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\HUDController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HUDController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.render-pipelines.core@6a60abc179f8\\Editor\\Material\\AssetReimportUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.core@6a60abc179f8\\Editor\\Material\\AssetReimportUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.timeline@bfd27f8016ff\\Runtime\\Events\\Signals\\SignalReceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.timeline@bfd27f8016ff\\Runtime\\Events\\Signals\\SignalReceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@4ccd9ecd2ee0\\Runtime\\Material\\Unlit\\Unlit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.high-definition@4ccd9ecd2ee0\\Runtime\\Material\\Unlit\\Unlit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\SimpleFPS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SimpleFPS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\UnityWarehouseSceneHDRP\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UnityWarehouseSceneHDRP\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\UnityWarehouseSceneHDRP\\Player\\Scripts\\CameraMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UnityWarehouseSceneHDRP\\Player\\Scripts\\CameraMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Trabalho\\Assets\\UnityWarehouseSceneHDRP\\Player\\NewMonoBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UnityWarehouseSceneHDRP\\Player\\NewMonoBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerguntaSala3Trigger.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\PerguntaSala3Trigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PerguntaSala3Trigger.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\PerguntaSala3Trigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PerguntaSala3Trigger.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:59:47.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scriptsala3.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\scriptsala3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\scriptsala3.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\scriptsala3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\scriptsala3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:54:49.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FakeVRPlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\FakeVRPlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FakeVRPlayerController.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\FakeVRPlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FakeVRPlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:06:00.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sala2ExitTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\Sala2ExitTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sala2ExitTrigger.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\Sala2ExitTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sala2ExitTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:57:51.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sala2Trigger.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\Sala2Trigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sala2Trigger.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\Sala2Trigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sala2Trigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:43:34.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cubo2UI.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\Cubo2UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cubo2UI.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\Cubo2UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cubo2UI.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:25:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrocarQuestSala2.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\TrocarQuestSala2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrocarQuestSala2.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\TrocarQuestSala2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrocarQuestSala2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:10:49.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManequimInteract.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\ManequimInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ManequimInteract.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\ManequimInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ManequimInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:26:42.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuizManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\QuizManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuizManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:25:08.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PerguntaTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\PerguntaTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PerguntaTrigger.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\PerguntaTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PerguntaTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:23:27.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuestManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\QuestManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuestManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\QuestManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuestManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T05:23:26.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EPIDialogUI.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\EPIDialogUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EPIDialogUI.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\EPIDialogUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EPIDialogUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:42:57.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EPIInteractable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\EPIInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EPIInteractable.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\EPIInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EPIInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:42:15.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teleport.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\Teleport.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Teleport.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\Teleport.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Teleport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:21:35.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewMonoBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\NewMonoBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewMonoBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\NewMonoBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewMonoBehaviourScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:20:06.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TextMeshProUGUI.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.ugui@3dd2fbd8c1f1\\Runtime\\TMP\\TextMeshProUGUI.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@3dd2fbd8c1f1\\Runtime\\TMP\\TextMeshProUGUI.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.ugui@3dd2fbd8c1f1\\Runtime\\TMP\\TextMeshProUGUI.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@3dd2fbd8c1f1\\Runtime\\TMP\\TextMeshProUGUI.cs",
+              "ViewState": "AgIAALQHAAAAAAAAAAAkwM4HAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T20:55:14.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HUDController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\HUDController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUDController.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\HUDController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUDController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T20:24:35.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssetReimportUtils.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.render-pipelines.core@6a60abc179f8\\Editor\\Material\\AssetReimportUtils.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.core@6a60abc179f8\\Editor\\Material\\AssetReimportUtils.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.render-pipelines.core@6a60abc179f8\\Editor\\Material\\AssetReimportUtils.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.core@6a60abc179f8\\Editor\\Material\\AssetReimportUtils.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T20:08:43.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuButtons.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\MenuButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuButtons.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\MenuButtons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuButtons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T19:21:31.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignalReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.timeline@bfd27f8016ff\\Runtime\\Events\\Signals\\SignalReceiver.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.timeline@bfd27f8016ff\\Runtime\\Events\\Signals\\SignalReceiver.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.timeline@bfd27f8016ff\\Runtime\\Events\\Signals\\SignalReceiver.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.timeline@bfd27f8016ff\\Runtime\\Events\\Signals\\SignalReceiver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:25:54.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Unlit.shader",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@4ccd9ecd2ee0\\Runtime\\Material\\Unlit\\Unlit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.high-definition@4ccd9ecd2ee0\\Runtime\\Material\\Unlit\\Unlit.shader",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@4ccd9ecd2ee0\\Runtime\\Material\\Unlit\\Unlit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.high-definition@4ccd9ecd2ee0\\Runtime\\Material\\Unlit\\Unlit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-01T21:17:37.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SimpleFPS.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\SimpleFPS.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleFPS.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\Scripts\\SimpleFPS.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimpleFPS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:24:53.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@4ccd9ecd2ee0\\Runtime\\Material\\Lit\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.high-definition@4ccd9ecd2ee0\\Runtime\\Material\\Lit\\Lit.shader",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@4ccd9ecd2ee0\\Runtime\\Material\\Lit\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.high-definition@4ccd9ecd2ee0\\Runtime\\Material\\Lit\\Lit.shader",
+              "ViewState": "AgIAANIAAAAAAAAAAAAYwN0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T20:56:44.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CameraMove.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\UnityWarehouseSceneHDRP\\Player\\Scripts\\CameraMove.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityWarehouseSceneHDRP\\Player\\Scripts\\CameraMove.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\UnityWarehouseSceneHDRP\\Player\\Scripts\\CameraMove.cs",
+              "RelativeToolTip": "Assets\\UnityWarehouseSceneHDRP\\Player\\Scripts\\CameraMove.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:50:36.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\UnityWarehouseSceneHDRP\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityWarehouseSceneHDRP\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\UnityWarehouseSceneHDRP\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\UnityWarehouseSceneHDRP\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:48:42.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NewMonoBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Trabalho\\Assets\\UnityWarehouseSceneHDRP\\Player\\NewMonoBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityWarehouseSceneHDRP\\Player\\NewMonoBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\PC\\Trabalho\\Assets\\UnityWarehouseSceneHDRP\\Player\\NewMonoBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\UnityWarehouseSceneHDRP\\Player\\NewMonoBehaviourScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:42:31.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
